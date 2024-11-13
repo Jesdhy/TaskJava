@@ -1,4 +1,5 @@
 # 🌍👋 Hello world in Java
+![image](https://github.com/user-attachments/assets/6ca3db94-85b4-480d-8af1-63cdae4ef5b1)
 
 ## 📘 About The Project
 The project was developed on Ubuntu and prints the message 'Hello World' to the console using Java.
@@ -39,6 +40,7 @@ java --version
    ```
 
 ## 🐳 Running with docker
+![image](https://github.com/user-attachments/assets/a9ecae5e-b545-474b-af8b-28bf8b569f81)
 
 1.- Making Docker Pull or Build docker image
 
