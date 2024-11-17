@@ -53,7 +53,7 @@ If you don't have an account, sign up for Railway.
 - Log in to Railway and select the New Project option.
 - Click on Deploy from GitHub Repo.
 - Connect your GitHub account (if you haven't already) and select this repository.
-
+![image](https://github.com/user-attachments/assets/4924a122-7efe-473b-a0c4-dcf0125492be)
 ## 🤝 Contributing
 Thank you for your interest in contributing to this project! Here are some guidelines for doing so:
 1. **Fork the repository** and clone the project to your local machine.
