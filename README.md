@@ -1,5 +1,5 @@
 # 🌍👋 Hello world in Java
-![image](https://github.com/user-attachments/assets/9670d8d3-8882-4977-8ce3-14417bc89173)
+![image](https://github.com/user-attachments/assets/fd07b928-1284-4a9a-ae0a-f91e01b6b8cc)
 
 ## 📘 About The Project
 The project was developed on Ubuntu and prints the message 'Hello World' to the console using Java.
