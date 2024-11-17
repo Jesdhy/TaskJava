@@ -1,8 +1,13 @@
 # 🌍👋 Hello world in Java
-![image](https://github.com/user-attachments/assets/6ca3db94-85b4-480d-8af1-63cdae4ef5b1)
+![image](https://github.com/user-attachments/assets/9670d8d3-8882-4977-8ce3-14417bc89173)
 
 ## 📘 About The Project
 The project was developed on Ubuntu and prints the message 'Hello World' to the console using Java.
+
+## ⚠️ **¡IMPORTANT!** ⚠️
+
+- The **main** branch contains the project with Docker setup.
+- The **railway-deployment** branch contains the project configured for Railway. 
 
 ## 📑 Table of Contents
 
@@ -11,7 +16,7 @@ The project was developed on Ubuntu and prints the message 'Hello World' to the 
   - [🔧 Prerequisites](#prerequisites)
   - [📥 Installation](#installation)
   - [⚙️ Running](#running)
-  - [🐳 Running with Docker](#running-with-docker)
+  - [🚀 Running in Railway](#running-with-railway)
 - [🤝 Contributing](#contributing)
 
 ## 🚀 Getting Started
@@ -39,20 +44,16 @@ java --version
     java app
    ```
 
-## 🐳 Running with docker
-![image](https://github.com/user-attachments/assets/a9ecae5e-b545-474b-af8b-28bf8b569f81)
+## 🚀 Running in Railway
+1.- Create an account on Railway
+If you don't have an account, sign up for Railway.
 
-1.- Making Docker Pull or Build docker image
+2.- Import the repository into Railway
 
- ```sh
-   docker pull jessdhy/sumjava:latest
-   ```
+- Log in to Railway and select the New Project option.
+- Click on Deploy from GitHub Repo.
+- Connect your GitHub account (if you haven't already) and select this repository.
 
-2.- Last make a docker run
-
- ```sh
-   docker run -it jessdhy/sumjava
-   ```
 ## 🤝 Contributing
 Thank you for your interest in contributing to this project! Here are some guidelines for doing so:
 1. **Fork the repository** and clone the project to your local machine.
